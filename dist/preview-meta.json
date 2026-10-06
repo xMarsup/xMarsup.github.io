@@ -1,0 +1,9 @@
+{
+  "sourceCommit": "1e1d6102f1ee7707212e5882fe8c5c71134695e5",
+  "webTests": 244,
+  "failedTests": 0,
+  "redactedLocalPaths": 63,
+  "checkedAssetReferences": 147,
+  "demoProfile": "browser-localStorage",
+  "robloxConnection": false
+}
