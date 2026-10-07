@@ -1,11 +1,11 @@
 {
-  "sourceCommit": "fa090ace1886279009d163a015027ceea10160dd",
-  "generatedAt": "2026-10-06T13:16:44Z",
-  "webTests": 259,
+  "sourceCommit": "d16356b62cbda9d2bc2213207ac968f779db3512",
+  "generatedAt": "2026-10-07T06:15:12Z",
+  "webTests": 264,
   "failedTests": 0,
   "redactedLocalPaths": 63,
   "checkedAssetReferences": 147,
   "demoProfile": "browser-localStorage",
   "robloxConnection": false,
-  "revision": "reward-gloss-spin-local-ink"
+  "revision": "pass-balanced-frame-gutter"
 }
