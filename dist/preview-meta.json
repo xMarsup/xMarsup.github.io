@@ -1,11 +1,11 @@
 {
-  "sourceCommit": "8a5b6316c0eeb218581232124036ec143b09f1be",
-  "generatedAt": "2026-10-07T06:20:30Z",
-  "webTests": 264,
+  "sourceCommit": "a0d68bf9b0619948e32566e350018ed7619d759e",
+  "generatedAt": "2026-10-07T06:56:52Z",
+  "webTests": 267,
   "failedTests": 0,
   "redactedLocalPaths": 63,
   "checkedAssetReferences": 147,
   "demoProfile": "browser-localStorage",
   "robloxConnection": false,
-  "revision": "pass-balanced-frame-gutter"
+  "revision": "summon-gem-packages-left"
 }
